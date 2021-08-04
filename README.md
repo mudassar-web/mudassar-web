@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mudassar-web
-- 👀 I’m interested in apps development
-- 🌱 I’m currently learning Node.js, Express, Mongodb 
+- 👀 I’m interested in web development
+- 🌱 I’m currently focusing on Node, Express, React, Redux, Typescript, Mongodb 
 - 💞️ I’m looking to collaborate on web application projects
 - 📫 How to reach me : mudassar.ansari@gmail.com
 
