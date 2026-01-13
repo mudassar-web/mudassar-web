@@ -1,5 +1,8 @@
+![visitors](https://vbr.nathanchung.dev/badge?page_id=mudassar-web.mudassar-web&color=00cf00)
+
 <h2>👋 Hi, I’m Mudassar Hussain Ansari</h2>
-<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J4cTg3cmM2YTR1ZjE4b2M3Y3E5cWZkOWR4bTF1b3A1aWw0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="450"/> </p>
+
+<p align="center"> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3J4cTg3cmM2YTR1ZjE4b2M3Y3E5cWZkOWR4bTF1b3A1aWw0bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/> </p>
 
 <h3>🚀 Senior Backend Engineer | Team Lead</h3>
 
@@ -12,12 +15,12 @@ Senior Backend Engineer specializing in building scalable systems, high-performa
 <h3>🛠️ Tech Stack & Tools</h3>
 
 <table border="1" align="center">
-  <tr><th>⚙️ Backend & APIs </th><td> <p> <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,ts,js" /></p> </td></tr>
-  <tr><th>🎨 Frontend (Supporting) </th><td> <p> <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></p> </td></tr>
-  <tr><th>🗄️ Databases & Messaging </th><td> <p> <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" /></p> </td></tr>
-  <tr><th>☁️ Cloud & DevOps </th><td> <p> <img src="https://skillicons.dev/icons?i=aws,docker,jenkins,kafka" /> </p> </td></tr>
-  <tr><th>🤖 GenAI & Automation </th><td> <p> <img src="https://skillicons.dev/icons?i=ai,bots" /> </p> </td></tr>
-  <tr><th>🧰 Tools & Monitoring </th><td> <p> <img src="https://skillicons.dev/icons?i=git,github,postman,rabbitmq" /> </p> </td></tr>
+  <tr align="left"><th>⚙️ Backend & APIs </th><td> <p> <img width="200px" src="https://skillicons.dev/icons?i=nodejs,express,graphql,ts,js" /></p> </td></tr>
+  <tr align="left"><th>🎨 Frontend (Supporting) </th><td> <p> <img width="200px" src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" /></p> </td></tr>
+  <tr align="left"><th>🗄️ Databases & Messaging </th><td> <p> <img width="200px" src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,redis" /></p> </td></tr>
+  <tr align="left"><th>☁️ Cloud & DevOps </th><td> <p> <img width="150px" src="https://skillicons.dev/icons?i=aws,docker,jenkins,kafka" /> </p> </td></tr>
+  <tr align="left"><th>🤖 GenAI & Automation </th><td> <p> <img width="75px" src="https://skillicons.dev/icons?i=ai,bots" /> </p> </td></tr>
+  <tr align="left"><th>🧰 Tools & Monitoring </th><td> <p> <img width="150px" src="https://skillicons.dev/icons?i=git,github,postman,rabbitmq" /> </p> </td></tr>
 </table>
 
 <h3>💼 What I Do</h3>
